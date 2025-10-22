@@ -14,9 +14,9 @@ in my free time, i build backend systems and experiment with go and typescript.
 
 **core focus**: algorithms, data structures, discrete mathematics, graph theory  
 **languages**: c++ (competitive programming), go, typescript  
-**also exploring**: distributed systems, backend development  
+**also exploring**: distributed systems, backend development
 
-## when i'm not coding
+## when i am not coding
 
 - solving problems on [codeforces](https://codeforces.com/profile/aj4y)
 - studying computer science theory
