@@ -11,7 +11,7 @@ enableRobotsTXT = true
 
 [params]
   description = "backend developer focused on go, apis, and distributed systems."
-  favicon = "/favicon.ico"
+  favicon = "/profile.jpg"
   showReadingTime = false
   footerContent = """
   [github](https://github.com/aj4y7) • [linkedin](https://linkedin.com/in/ajaymishra7) • [codeforces](https://codeforces.com/profile/aj4y)
