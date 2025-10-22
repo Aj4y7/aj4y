@@ -4,11 +4,11 @@ title: "About"
 
 # hi, i am Ajay
 
-a computer science student passionate about algorithms, problem-solving, and theoretical foundations.
+computer science student.
 
-currently diving deep into competitive programming, data structures, and discrete mathematics. i spend most of my time solving problems on codeforces and exploring algorithmic challenges.
+currently focused on competitive programming, data structures, and discrete mathematics. i solve problems on codeforces and study algorithmic challenges.
 
-in my free time, i build backend systems and experiment with go and typescript.
+i also build backend systems with go and typescript.
 
 ## what i work with
 
