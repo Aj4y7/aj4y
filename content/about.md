@@ -23,6 +23,7 @@ currently building scalable services and experimenting with new tech. i like cle
 
 ## connect
 
+- email: [ajaykumishra41@gmail.com](mailto:ajaykumishra41@gmail.com)
 - github: [github.com/aj4y7](https://github.com/aj4y7)
 - linkedin: [linkedin.com/in/ajaymishra7](https://linkedin.com/in/ajaymishra7)
 - codeforces: [codeforces.com/profile/aj4y](https://codeforces.com/profile/aj4y)
