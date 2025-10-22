@@ -1,0 +1,35 @@
+baseURL = "https://your-site-url/"
+languageCode = "en-us"
+title = ""
+theme = "typo"
+enableRobotsTXT = true
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[params]
+  description = "backend developer focused on go, apis, and distributed systems."
+  favicon = "/favicon.ico"
+  showReadingTime = false
+  footerContent = """
+  [github](https://github.com/aj4y7) • [linkedin](https://linkedin.com/in/ajaymishra7) • [codeforces](https://codeforces.com/profile/aj4y)
+  """
+
+[[params.menu]]
+  name = "projects"
+  url = "/projects/"
+  weight = 1
+
+[[params.menu]]
+  name = "articles"
+  url = "/blogs/"
+  weight = 2
+
+[[params.menu]]
+  name = "about"
+  url = "/about/"
+  weight = 3
+
+

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on </title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Home on </description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;h1 class=&#34;heading&#34; id=&#34;hi-i-am-ajay&#34;&gt;&#xA;  hi, i am Ajay&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#hi-i-am-ajay&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;a backend developer focused on go, apis, and distributed systems.&lt;/p&gt;&#xA;&lt;p&gt;currently building scalable services and experimenting with new tech. i like clean code, simple solutions, and systems that don&amp;rsquo;t fall apart at 3am.&lt;/p&gt;&#xA;&lt;h2 class=&#34;heading&#34; id=&#34;what-i-work-with&#34;&gt;&#xA;  what i work with&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#what-i-work-with&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;languages&lt;/strong&gt;: go, c++, typescript&lt;br&gt;&#xA;&lt;strong&gt;backend&lt;/strong&gt;: go (robfig/cron), node.js, express&lt;br&gt;&#xA;&lt;strong&gt;tools&lt;/strong&gt;: git, linux, docker&lt;/p&gt;&#xA;&lt;h2 class=&#34;heading&#34; id=&#34;when-im-not-building&#34;&gt;&#xA;  when i&amp;rsquo;m not building&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#when-im-not-building&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;solving problems on &lt;a href=&#34;https://codeforces.com/profile/aj4y&#34;&gt;codeforces&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;contributing to open-source&lt;/li&gt;&#xA;&lt;li&gt;reading technical blogs&lt;/li&gt;&#xA;&lt;li&gt;probably debugging something&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 class=&#34;heading&#34; id=&#34;connect&#34;&gt;&#xA;  connect&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#connect&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;github: &lt;a href=&#34;https://github.com/aj4y7&#34;&gt;github.com/aj4y7&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;linkedin: &lt;a href=&#34;https://linkedin.com/in/ajaymishra7&#34;&gt;linkedin.com/in/ajaymishra7&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;codeforces: &lt;a href=&#34;https://codeforces.com/profile/aj4y&#34;&gt;codeforces.com/profile/aj4y&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;feel free to reach out for collabs, questions, or just to chat about tech.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>articles</title>
+      <link>http://localhost:1313/blogs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blogs/</guid>
+      <description>&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;   ___&#xA;  (o o)&#xA; (  V  )&#xA;/--m-m--\&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;i haven&amp;rsquo;t written any articles yet&amp;hellip;&lt;/p&gt;&#xA;&lt;p&gt;but when i do, they&amp;rsquo;ll probably be about go, cpp, algos, distributed systems, or debugging nightmares at 3am.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;em&gt;check back soon, or follow me on &lt;a href=&#34;https://github.com/aj4y7&#34;&gt;github&lt;/a&gt; for updates.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>projects</title>
+      <link>http://localhost:1313/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/</guid>
+      <description>&lt;hr&gt;&#xA;&lt;h3 class=&#34;heading&#34; id=&#34;classec&#34;&gt;&#xA;  classec&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#classec&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;status&lt;/strong&gt;: &lt;code&gt;completed&lt;/code&gt; • &lt;strong&gt;finished&lt;/strong&gt;: oct 2025&lt;/p&gt;&#xA;&lt;p&gt;college class alert system that sends automated push notifications 15 minutes before each class. built with go, robfig/cron for scheduling, and ntfy.sh for notifications. reads timetables from csv and handles section-specific topics.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/Aj4y7/classec&#34;&gt;github.com/Aj4y7/classec&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 class=&#34;heading&#34; id=&#34;itembeacon&#34;&gt;&#xA;  itembeacon&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#itembeacon&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;status&lt;/strong&gt;: &lt;code&gt;in progress&lt;/code&gt; • &lt;strong&gt;started&lt;/strong&gt;: sep 2025&lt;/p&gt;&#xA;&lt;p&gt;lost &amp;amp; found web application for college students. typescript/node.js backend complete with authentication and item tracking. currently seeking frontend contributors to build the ui.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
