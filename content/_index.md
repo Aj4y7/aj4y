@@ -1,5 +1,5 @@
 ---
-title: "Home"
+title: "Ajay"
 ---
 
 # hi, i am Ajay
