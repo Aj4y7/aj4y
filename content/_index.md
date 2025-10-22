@@ -4,7 +4,7 @@ title: "Home"
 
 # hi, i am Ajay
 
-competitive programmer | problem solver | cs student
+competitive programmer
 
 exploring algorithms, discrete mathematics, and computational theory.
 
