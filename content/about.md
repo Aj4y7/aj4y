@@ -4,22 +4,24 @@ title: "About"
 
 # hi, i am Ajay
 
-a backend developer focused on go, apis, and distributed systems.
+a computer science student passionate about algorithms, problem-solving, and theoretical foundations.
 
-currently building scalable services and experimenting with new tech. i like clean code, simple solutions, and systems that don't fall apart at 3am.
+currently diving deep into competitive programming, data structures, and discrete mathematics. i spend most of my time solving problems on codeforces and exploring algorithmic challenges.
+
+in my free time, i build backend systems and experiment with go and typescript.
 
 ## what i work with
 
-**languages**: go, c++, typescript  
-**backend**: go (robfig/cron), node.js, express  
-**tools**: git, linux, docker
+**core focus**: algorithms, data structures, discrete mathematics, graph theory  
+**languages**: c++ (competitive programming), go, typescript  
+**also exploring**: distributed systems, backend development  
 
-## when i'm not building
+## when i'm not coding
 
 - solving problems on [codeforces](https://codeforces.com/profile/aj4y)
+- studying computer science theory
 - contributing to open-source
-- reading technical blogs
-- probably debugging something
+- building side projects
 
 ## connect
 
@@ -28,4 +30,4 @@ currently building scalable services and experimenting with new tech. i like cle
 - linkedin: [linkedin.com/in/ajaymishra7](https://linkedin.com/in/ajaymishra7)
 - codeforces: [codeforces.com/profile/aj4y](https://codeforces.com/profile/aj4y)
 
-feel free to reach out for collabs, questions, or just to chat about tech.
+feel free to reach out for collabs, questions, or just to chat about algorithms and cs.
