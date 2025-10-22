@@ -114,6 +114,7 @@ To show the same preview image across all your pages not fitting the above condi
 
 If you want more control, you can create your own `layouts/partials/head/og-image.html` in your Hugo project and provide custom templating to generate an image URL. Here's an example that shows how an externally hosted service could be used for links other than the home page:
 
+{% raw %}
 ```go-html-template
 {{- if .IsHome -}}
   {{- with resources.GetMatch "images/og-image.{webp,png,jpg}" -}}
@@ -125,6 +126,7 @@ If you want more control, you can create your own `layouts/partials/head/og-imag
   {{- end -}}
 {{- end -}}
 ```
+{% endraw %}
 
 Overriding `og-image.html` will still respect frontmatter/Hugo processing config and only applies if those scenarios fail.
 
