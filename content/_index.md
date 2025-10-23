@@ -6,6 +6,6 @@ title: "Ajay"
 
 algorithms | systems
 
-exploring computational theory, discrete mathematics, and building things in go.
+exploring computational theory, discrete mathematics, and building things in Go.
 
 _"write code that matters, not code that impresses."_
