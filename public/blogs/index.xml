@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>articles on Ajay</title>
+    <link>http://localhost:1313/blogs/</link>
+    <description>Recent content in articles on Ajay</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 23 Oct 2025 22:50:50 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/blogs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DSA or Dev: A beginner&#39;s guide</title>
+      <link>http://localhost:1313/blogs/devordsa/</link>
+      <pubDate>Thu, 23 Oct 2025 22:50:50 +0530</pubDate>
+      <guid>http://localhost:1313/blogs/devordsa/</guid>
+      <description>&lt;h1 class=&#34;heading&#34; id=&#34;disclaimer&#34;&gt;&#xA;  DISCLAIMER&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#disclaimer&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;It&amp;rsquo;s all just my opinion and experience. Please don’t quote me on anything I say here.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 class=&#34;heading&#34; id=&#34;dsa-or-development---what-should-you-do-as-a-freshman&#34;&gt;&#xA;  DSA or Development - What Should You Do as a Freshman?&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#dsa-or-development---what-should-you-do-as-a-freshman&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;I&amp;rsquo;ve been asked this question many times by friends:&lt;br&gt;&#xA;&lt;strong&gt;What should I do as a freshman, DSA or Development?&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Here’s what I think.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 class=&#34;heading&#34; id=&#34;for-those-who-havent-done-any-programming-yet&#34;&gt;&#xA;  For Those Who Haven’t Done Any Programming Yet&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#for-those-who-havent-done-any-programming-yet&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;If you haven’t done any programming until now, just focus on learning the fundamentals first.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
